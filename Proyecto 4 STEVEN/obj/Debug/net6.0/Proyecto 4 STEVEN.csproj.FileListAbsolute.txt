@@ -1,0 +1,15 @@
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\bin\Debug\net6.0\Proyecto 4 STEVEN.exe
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\bin\Debug\net6.0\Proyecto 4 STEVEN.deps.json
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\bin\Debug\net6.0\Proyecto 4 STEVEN.runtimeconfig.json
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\bin\Debug\net6.0\Proyecto 4 STEVEN.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\bin\Debug\net6.0\Proyecto 4 STEVEN.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.AssemblyInfo.cs
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\refint\Proyecto 4 STEVEN.dll
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.pdb
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\Proyecto 4 STEVEN.genruntimeconfig.cache
+C:\Users\MINEDUCYT\Desktop\Proyecto 1 STEVEN\Proyecto 4 STEVEN\obj\Debug\net6.0\ref\Proyecto 4 STEVEN.dll

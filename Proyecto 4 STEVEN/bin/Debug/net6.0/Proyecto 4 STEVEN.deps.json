@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Proyecto 4 STEVEN/1.0.0": {
+        "runtime": {
+          "Proyecto 4 STEVEN.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto 4 STEVEN/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
